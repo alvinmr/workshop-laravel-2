@@ -1,0 +1,31 @@
+@font-face {
+    font-family: "Bakso Sapi";
+    font-style: normal;
+    font-weight: 400;
+    src: url("/fonts/BaksoSapi.otf");
+}
+
+@font-face {
+    font-family: "Poppins";
+    font-weight: 400;
+    src: url("/fonts/Poppins-Regular.ttf");
+}
+@font-face {
+    font-family: "Poppins";
+    font-weight: 700;
+    src: url("/fonts/Poppins-Bold.ttf");
+}
+@font-face {
+    font-family: "Poppins";
+    font-weight: 500;
+    src: url("/fonts/Poppins-SemiBold.ttf");
+}
+
+h1 {
+    font-family: "Bakso Sapi";
+}
+
+* {
+    font-family: "Poppins";
+    font-weight: 400;
+}
